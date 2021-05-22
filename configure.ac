@@ -1,5 +1,5 @@
 AC_PREREQ([2.60])
-AC_INIT([DRI3Proto], [1.0], [https://bugs.freedesktop.org/enter_bug.cgi?product=xorg])
+AC_INIT([DRI3Proto], [1.0], [https://github.com/freedesktop/xorg-dri3proto])
 AM_INIT_AUTOMAKE([foreign dist-bzip2])
 
 # Require xorg-macros: XORG_DEFAULT_OPTIONS
